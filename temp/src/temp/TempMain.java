@@ -1,6 +1,6 @@
-package temp2;
+package temp;
 
-public class Temp2 {
+public class TempMain {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
